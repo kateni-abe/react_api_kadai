@@ -1,5 +1,4 @@
-# ここにタイトルを入れる
-
+# API連携の練習_DEEPL
 ## DEMO
 
 - deeplApi を使った翻訳機
